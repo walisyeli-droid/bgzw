@@ -1,4 +1,4 @@
-将以下代码拖到Codex中，建议使用GPT-5.5模型
+将以下prompt拖到Codex中，建议使用GPT-5.5模型
 ```bash
 claude \
   --dangerously-skip-permissions \
