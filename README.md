@@ -1,5 +1,4 @@
-# bgzw
-八股作文万花筒
+```bash
 claude \
   --dangerously-skip-permissions \
   --output-format=stream-json \
@@ -219,3 +218,5 @@ POST {API_BASE_URL}/chat/completions
 - 安装命令
 - 运行命令
 - 简短使用示例。"
+```
+
